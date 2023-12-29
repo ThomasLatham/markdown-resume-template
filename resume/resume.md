@@ -106,7 +106,7 @@ Project Name: Project Description
   Wizards rule.
 - <u>Utilized:</u> Node, TypeScript, VS Code Extension API, Mocha, Azure DevOps, GitHub
 
-### <span class="subsection-left">Open-Source Mobile Application</span><span>[NMF.earth](https://github.com/NMF-earth/nmf-app)</span><span class="subsection-right">Contributor</span>
+### <span class="subsection-left">Some Personal Project</span><span>[Project Link](https://www.shmowzow.com)</span><span class="subsection-right">Creator</span>
 
 - Wizards rule. Wizards rule. Wizards rule. Wizards rule. Wizards rule. Wizards rule. Wizards rule.
   Wizards rule.

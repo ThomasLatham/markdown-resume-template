@@ -1,4 +1,4 @@
-# markdown-resume
+# markdown-resume-template
 
 A resume template in Markdown and styled with CSS.
 
